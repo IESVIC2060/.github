@@ -1,19 +1,19 @@
 # IESVIC 2060 Project
 This channel contains all iterations of the Pyomo implementation of OSeMOSYS as investigated by the 2060 Project Team within the Institute for Integrated Energy Systems at the University of Victoria. 
 
-Team Members
+## Team Members
 
-Leads
+### Leads
 
 Dr. Rowe, Andrew
 
 Dr. Wild, Peter
 
-Analysts
+### Analysts
 
 Dr. Monroe, Jacob
 
-Researchers
+### Researchers
 
 Knittel, Tamara (PhD candidate)
 
