@@ -1,4 +1,4 @@
-# IESVIC 2060 Project Channel
+# IESVIC 2060 Project
 This channel contains all iterations of the Pyomo implementation of OSeMOSYS as investigated by the 2060 Project Team within the Institute for Integrated Energy Systems at the University of Victoria. 
 
 Team Members
