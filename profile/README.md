@@ -4,17 +4,25 @@ This channel contains all iterations of the Pyomo implementation of OSeMOSYS as 
 Team Members
 
 Leads
+
 Dr. Rowe, Andrew
+
 Dr. Wild, Peter
 
 Analysts
+
 Dr. Monroe, Jacob
 
 Researchers
+
 Knittel, Tamara (PhD candidate)
+
 Majumdar, Chiradep (PhD candidate)
+
 Das, Pronob (MASc candidate)
+
 Lowry, Colton (MASc candidate)
+
 Mauel, Jennifer (MASc candidate)
 
 Please find us at https://onlineacademiccommunity.uvic.ca/2060project/
